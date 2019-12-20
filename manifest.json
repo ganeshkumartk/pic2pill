@@ -46,5 +46,8 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "screenshots" : [],
+	"orientation" : "any",
+	"description" : "Progressive web based Pill Classification App"
 }
