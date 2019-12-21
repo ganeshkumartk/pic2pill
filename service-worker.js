@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pic2pill/precache-manifest.cfe1525a69b4906c2d773c072881a57d.js"
+  "/pic2pill/precache-manifest.23924af54ba82d785e89c3d46423b73b.js"
 );
 
 self.addEventListener('message', (event) => {
