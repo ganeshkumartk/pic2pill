@@ -27,7 +27,7 @@ pre-trained model converted to the TensorFlow.js format to provide the inference
 This model is saved locally in the browser using IndexedDB, and a service worker is used to
 provide offline capabilities.
 
-![architecture](doc/images/arch-diagram.png)
+![architecture](docs/arch-diagram.png)
 
 ## Flow
 
