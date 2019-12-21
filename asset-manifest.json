@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pic2pill/static/css/main.ce323a4c.chunk.css",
-    "main.js": "/pic2pill/static/js/main.af1f59fb.chunk.js",
-    "main.js.map": "/pic2pill/static/js/main.af1f59fb.chunk.js.map",
+    "main.js": "/pic2pill/static/js/main.8abe9a2c.chunk.js",
+    "main.js.map": "/pic2pill/static/js/main.8abe9a2c.chunk.js.map",
     "runtime-main.js": "/pic2pill/static/js/runtime-main.660e9606.js",
     "runtime-main.js.map": "/pic2pill/static/js/runtime-main.660e9606.js.map",
     "static/css/2.b138a779.chunk.css": "/pic2pill/static/css/2.b138a779.chunk.css",
     "static/js/2.faec1bcf.chunk.js": "/pic2pill/static/js/2.faec1bcf.chunk.js",
     "static/js/2.faec1bcf.chunk.js.map": "/pic2pill/static/js/2.faec1bcf.chunk.js.map",
     "index.html": "/pic2pill/index.html",
-    "precache-manifest.9d4b4bb3c70f974866145a6d4002dc6d.js": "/pic2pill/precache-manifest.9d4b4bb3c70f974866145a6d4002dc6d.js",
+    "precache-manifest.623dfffebb338429c7372340c837b7f9.js": "/pic2pill/precache-manifest.623dfffebb338429c7372340c837b7f9.js",
     "service-worker.js": "/pic2pill/service-worker.js",
     "static/css/2.b138a779.chunk.css.map": "/pic2pill/static/css/2.b138a779.chunk.css.map",
     "static/css/main.ce323a4c.chunk.css.map": "/pic2pill/static/css/main.ce323a4c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b138a779.chunk.css",
     "static/js/2.faec1bcf.chunk.js",
     "static/css/main.ce323a4c.chunk.css",
-    "static/js/main.af1f59fb.chunk.js"
+    "static/js/main.8abe9a2c.chunk.js"
   ]
 }

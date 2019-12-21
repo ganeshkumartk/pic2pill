@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26f7528f88cc801be40172cc995de9d6",
+    "revision": "3bdcc4a6648ef0429931e9702a90f127",
     "url": "/pic2pill/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pic2pill/static/css/2.b138a779.chunk.css"
   },
   {
-    "revision": "28520c2c815ad7812e26",
+    "revision": "749b0d4a714b8bc842eb",
     "url": "/pic2pill/static/css/main.ce323a4c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pic2pill/static/js/2.faec1bcf.chunk.js.LICENSE"
   },
   {
-    "revision": "28520c2c815ad7812e26",
-    "url": "/pic2pill/static/js/main.af1f59fb.chunk.js"
+    "revision": "749b0d4a714b8bc842eb",
+    "url": "/pic2pill/static/js/main.8abe9a2c.chunk.js"
   },
   {
     "revision": "173082247e46a2da30d3",
