@@ -1,4 +1,25 @@
-# PicToPill - A Progressive Web based Pill Classification App
+<h1 align="center">
+  <br>
+  <a href="https://coderganesh.github.io/pic2pill/"><img src="https://github.com/CoDeRgAnEsh/pic2pill/blob/gh-pages/images/apple-touch-icon.png" alt="pic2pill" width="200"></a>
+  <br>
+  PicToPill
+  <br>
+</h1>
+
+<h4 align="center">A Progressive Web based Pill Classification App</h4>
+
+<p align="center">
+  <a href="https://badge.fury.io/gh/coderganesh%2Fpic2pill"><img src="https://badge.fury.io/gh/coderganesh%2Fpic2pill.svg" alt="GitHub version" height="18"></a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/coderganesh/pic2pill">
+  <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
+   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiaskubusuku">
+  <a href="https://github.com/CoDeRgAnEsh/pic2pill/compare">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-grbrighteen.svg">
+  </a>
+</p>
 
 ## Motive
 After creating deep learning models, users typically want to deploy their trained models to be used
@@ -91,9 +112,14 @@ the server, the user is given a prompt with the option to update.
 The app allows you to either use your device's camera to snap an image or select a local image from
 the device's filesystem. Select an image of an object or put the object in frame using your camera,
 then click classify. Local inference will then be performed, and the top result will be given.
+<p align="centre">
+   
+  <img src="./docs/lap1.png" alt="Classify in Laptop" width ="600"> 
+  <img src="./docs/docs/lap3.png" alt="Predictions in laptop" width="600">
+  <img src="./docs/mobile2.png" alt="Classify with App">
+  <img src="./docs/mobile3.png" alt="App Predictions">
 
-![Classify with App](doc/images/app-classify.png "Classify with App")
-![App Predictions](doc/images/app-predictions.png "App Predictions")
+</p>
 
 ## Links
 
