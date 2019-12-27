@@ -12,7 +12,9 @@
   <a href="https://badge.fury.io/gh/coderganesh%2Fpic2pill"><img src="https://badge.fury.io/gh/coderganesh%2Fpic2pill.svg" alt="GitHub version" height="18"></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/coderganesh/pic2pill">
   <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
-   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiaskubusuku">
+   <a href="https://twitter.com/iaskubusuku">
+      <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiaskubusuku">
+  </a>
   <a href="https://github.com/CoDeRgAnEsh/pic2pill/compare">
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
   </a>
